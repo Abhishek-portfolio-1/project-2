@@ -1,0 +1,52 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+.container{
+    width: 100vw;
+    
+    
+
+
+}
+.main{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    
+    align-items: center;
+    
+}
+.head{
+    text-align: center;
+    
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: bold;
+    font-size: 20px;
+
+}
+form{
+    display: grid;
+    gap: 10px;
+    width: 50%;
+    margin-bottom: 20px;
+
+    
+}
+input{
+    width: 50vw;
+    height: 25px;
+    border-radius: 5px;
+}
+.button{
+    width: 10vw;
+    
+
+
+}
+#dark{
+    width:20vw;
+}
+#light{
+    width: 20vw;
+}

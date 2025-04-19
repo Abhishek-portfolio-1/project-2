@@ -1,0 +1,35 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    
+    
+   
+}
+.input{
+    width: 20%;
+    padding: 10px;
+    border: 1px solid orangered;
+    border-radius: 20px;
+}
+.but{
+    width: 100px;
+    padding: 10px;
+    border: 1px solid orangered;
+    border-radius: 10px;
+    background-color: orangered;
+    color: white;
+
+}
+.todo{
+    color: orangered;
+    font-weight: bold;
+    font-size: 30px;
+    text-align: center;
+    margin-bottom: 20px;
+}
+.container{
+    text-align: center;
+    
+}

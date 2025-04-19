@@ -1,0 +1,29 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+body{
+
+}
+.container{
+ width: 100vw;
+
+}
+.main{
+    display: flex;
+    flex-direction: column;
+  
+    align-items: center;
+    
+    background-color: aqua;
+    
+}
+.head{
+    font-size: 20px;
+
+}
+.box{
+   width: 60% ;
+   height:10px;
+    background-color: #344C36;
+}
